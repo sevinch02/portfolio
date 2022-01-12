@@ -19,8 +19,7 @@ a {
     text-decoration: none;
 }
 .animation {
-  width: 88%;
-    text-align: center;
+text-align: center;
 color: #f2f2f2;
 }
 @keyframes blurFadeIn {
