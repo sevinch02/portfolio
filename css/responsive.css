@@ -1,0 +1,26 @@
+@media(max-width:992px){
+    .about{
+        height: 100%;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .biography{
+        width: 63%;
+        margin-bottom: 20px
+    }
+    .tabs{
+        min-height: 530px;
+        width: 100%;
+    }
+}
+@media(max-width: 665px){
+    .biography{
+        width: 70%;
+    }
+}
+@media(max-width: 444px){
+    .biography{
+        width: 100%;
+    }
+}
