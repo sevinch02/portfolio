@@ -18,6 +18,20 @@
     .biography{
         width: 70%;
     }
+    ul{
+        display: flex;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+
+    }
+    b{
+        display: block;
+        align-items: center;
+    }
+    ._helper{
+        margin-bottom: 18px;
+    }
 }
 @media(max-width: 444px){
     .biography{

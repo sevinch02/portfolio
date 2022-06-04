@@ -18,6 +18,9 @@ body {
 a {
     text-decoration: none;
 }
+b{
+    display: none;
+}
 .animation {
 text-align: center;
 color: #f2f2f2;
