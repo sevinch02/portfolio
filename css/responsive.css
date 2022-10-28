@@ -10,13 +10,13 @@
         margin-bottom: 20px
     }
     .tabs{
-        min-height: 589px;
+        min-height: 606px;
         width: 100%;
     }
 }
 @media(max-width: 665px){
     .biography{
-        width: 70%;
+        width: 100%;
     }
     ul{
         display: flex;
@@ -36,5 +36,8 @@
 @media(max-width: 444px){
     .biography{
         width: 100%;
+    }
+    .tabs ul li{
+        padding: 0;
     }
 }
